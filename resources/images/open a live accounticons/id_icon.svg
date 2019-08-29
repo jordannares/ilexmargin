@@ -1,0 +1,28 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 309.5 189.44">
+  <defs>
+    <clipPath id="clip-path" transform="translate(-0.5 -53.56)">
+      <circle cx="82" cy="145.13" r="50" fill="none"/>
+    </clipPath>
+  </defs>
+  <title>id_icon</title>
+  <g>
+    <rect x="160.5" y="47.44" width="97" height="91" fill="#d0f4f7"/>
+    <g>
+      <circle cx="81.87" cy="92.67" r="49.63" fill="#d0f4f7"/>
+      <g clip-path="url(#clip-path)">
+        <g>
+          <path d="M82,149.3a20.83,20.83,0,1,1,20.83-20.83A20.86,20.86,0,0,1,82,149.3ZM82,116a12.5,12.5,0,1,0,12.5,12.5A12.51,12.51,0,0,0,82,116Z" transform="translate(-0.5 -53.56)" fill="#43b6c7"/>
+          <path d="M90.33,208.23H73.67a28.57,28.57,0,1,1,0-57.14H90.33a28.57,28.57,0,1,1,0,57.14ZM73.67,159.42a20.24,20.24,0,0,0,0,40.48H90.33a20.24,20.24,0,1,0,0-40.48Z" transform="translate(-0.5 -53.56)" fill="#43b6c7"/>
+        </g>
+      </g>
+    </g>
+    <rect x="160.5" y="47.44" width="97" height="14" fill="#43b6c7"/>
+    <rect x="160.5" y="68.44" width="97" height="14" fill="#43b6c7"/>
+    <rect x="160.5" y="94.44" width="97" height="14" fill="#43b6c7"/>
+    <rect x="160.5" y="124.44" width="20" height="14" fill="#43b6c7"/>
+    <rect x="184.5" y="124.44" width="20" height="14" fill="#43b6c7"/>
+    <rect x="208.5" y="124.44" width="11" height="14" fill="#43b6c7"/>
+    <rect x="223.5" y="124.44" width="34" height="14" fill="#43b6c7"/>
+    <path d="M280.53,243H30A29.5,29.5,0,0,1,.5,213.53V83A29.5,29.5,0,0,1,30,53.56H280.53A29.5,29.5,0,0,1,310,83v130.5A29.5,29.5,0,0,1,280.53,243ZM30,61.56A21.49,21.49,0,0,0,8.5,83v130.5A21.49,21.49,0,0,0,30,235H280.53A21.49,21.49,0,0,0,302,213.53V83a21.49,21.49,0,0,0-21.47-21.47Z" transform="translate(-0.5 -53.56)" fill="#43b6c7"/>
+  </g>
+</svg>

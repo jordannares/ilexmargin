@@ -1,0 +1,29 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 309.5 189.44">
+  <defs>
+    <clipPath id="clip-path" transform="translate(-0.5 -55.56)">
+      <rect x="18" y="106" width="108" height="92" fill="none"/>
+    </clipPath>
+  </defs>
+  <title>driver_license</title>
+  <g>
+    <path d="M280.53,62.56H30A25.47,25.47,0,0,0,4.5,88v15H306V88A25.47,25.47,0,0,0,280.53,62.56Z" transform="translate(-0.5 -55.56)" fill="#d0f4f7"/>
+    <path d="M280.53,245H30A29.5,29.5,0,0,1,.5,215.53V85A29.5,29.5,0,0,1,30,55.56H280.53A29.5,29.5,0,0,1,310,85v130.5A29.5,29.5,0,0,1,280.53,245ZM30,63.56A21.49,21.49,0,0,0,8.5,85v130.5A21.49,21.49,0,0,0,30,237H280.53A21.49,21.49,0,0,0,302,215.53V85a21.49,21.49,0,0,0-21.47-21.47Z" transform="translate(-0.5 -55.56)" fill="#43b6c7"/>
+    <text transform="translate(70.5 39.17)" font-size="26.7" fill="#43b6c7" font-family="PTSans-Narrow, PT Sans Narrow">DRIVERS LICENSE</text>
+    <g>
+      <rect x="28.5" y="54.44" width="88" height="88" fill="#d0f4f7"/>
+      <g clip-path="url(#clip-path)">
+        <g>
+          <path d="M73,162.3a20.83,20.83,0,1,1,20.83-20.83A20.86,20.86,0,0,1,73,162.3ZM73,129a12.5,12.5,0,1,0,12.5,12.5A12.51,12.51,0,0,0,73,129Z" transform="translate(-0.5 -55.56)" fill="#43b6c7"/>
+          <path d="M81.33,221.23H64.67a28.57,28.57,0,1,1,0-57.14H81.33a28.57,28.57,0,1,1,0,57.14ZM64.67,172.42a20.24,20.24,0,0,0,0,40.48H81.33a20.24,20.24,0,1,0,0-40.48Z" transform="translate(-0.5 -55.56)" fill="#43b6c7"/>
+        </g>
+      </g>
+    </g>
+    <rect x="134.5" y="54.44" width="140" height="77" fill="#d0f4f7"/>
+    <rect x="134.5" y="54.44" width="114" height="4" fill="#43b6c7"/>
+    <rect x="134.5" y="64.44" width="73" height="4" fill="#43b6c7"/>
+    <rect x="134.5" y="75.94" width="76" height="3" fill="#43b6c7"/>
+    <rect x="28.5" y="154.44" width="246" height="14" fill="#43b6c7"/>
+    <rect x="134.5" y="86.44" width="59" height="3" fill="#43b6c7"/>
+    <rect x="134.5" y="116.44" width="140" height="24" fill="#43b6c7"/>
+  </g>
+</svg>
